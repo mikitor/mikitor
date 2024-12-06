@@ -1,4 +1,4 @@
-👋 Hi there! I'm a passionate Senior Software Engineer with 5+ years of experience building scalable, impactful solutions using Node.js, TypeScript, React, MongoDB, PostgreSQL, and AWS.
+👋 Hi there! I'm a passionate Senior Software Engineer with 5+ years of experience building scalable, impactful solutions using Node.js, TypeScript, React, React Native, MongoDB, PostgreSQL, and AWS.
 
 🌍 Dedicated to crafting technology that drives social impact, particularly in healthcare and education.
 
